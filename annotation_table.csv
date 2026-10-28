@@ -1,0 +1,11 @@
+rank,protein_name,organism,accession,query_coverage,identities,percent_identity,e_value,gaps,interpretation
+1,Insulin,Eschrichtius robustus,MBW01439.1,100%,105/110,95.45%,4e-68,0/110,Strong match; full query alignment shown in screenshot.
+2,Low quality protein: insulin,Eubalaena glacialis,XP_061059793.1,100%,105/110,95.45%,1e-67,0/110,Strong match; annotation is marked low quality.
+3,Insulin isoform X2,Delphinapterus leucas,XP_022446765.1,100%,95/110,86.36%,5e-59,12/110,Strong match; alignment contains gaps.
+4,Insulin,Rhinolophus affinis,KAN3685427.1,100%,98/110,89.09%,2e-57,0/110,Strong match.
+5,"Hypothetical protein E1555_000368, partial",Monodon monoceros,TKC52250.1,85%,See partial alignment,94% shown for partial segment,4e-55,See alignment,Partial hypothetical protein; interpret cautiously.
+6,Insulin,Micromys minutus,XP_080768357.1,100%,85/110,77.27%,5e-55,0/110,Strong statistical match; lower identity than several other hits.
+7,Insulin,Tupaia tana,KAN7991649.1,100%,95/110,86.36%,7e-55,0/110,Strong match.
+8,Insulin isoform X1,Macaca nemestrina,XP_011719619.2,100%,96/110,87.27%,1e-54,0/110,Strong match.
+9,Insulin,Pteropus alecto,XP_006911039.1,100%,95/110,86.36%,2e-54,0/110,Strong match.
+10,Insulin preproprotein,Pan troglodytes,NP_001008996.1,100%,94/110,85.45%,3e-54,0/110,Strong match.

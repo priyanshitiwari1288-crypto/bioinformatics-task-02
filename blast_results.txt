@@ -1,0 +1,24 @@
+Intended query: dolphin insulin protein; exact query FASTA and search setup still need verification.
+
+Rank | Protein/organism | Accession | Query coverage | Identities / identity | E-value | Gaps
+1 | Insulin [Eschrichtius robustus] | MBW01439.1 | 100% | 105/110 (95.45%) | 4e-68 | 0/110
+2 | LOW QUALITY PROTEIN: insulin [Eubalaena glacialis] | XP_061059793.1 | 100% | 105/110 (95.45%) | 1e-67 | 0/110
+3 | insulin isoform X2 [Delphinapterus leucas] | XP_022446765.1 | 100% | 95/110 (86.36%) | 5e-59 | 12/110
+4 | insulin [Rhinolophus affinis] | KAN3685427.1 | 100% | 98/110 (89.09%) | 2e-57 | 0/110
+5 | hypothetical protein E1555_000368, partial [Monodon monoceros] | TKC52250.1 | 85% | Partial alignment shown | 4e-55 | Partial alignment
+6 | insulin [Micromys minutus] | XP_080768357.1 | 100% | 85/110 (77.27%) | 5e-55 | 0/110
+7 | insulin [Tupaia tana] | KAN7991649.1 | 100% | 95/110 (86.36%) | 7e-55 | 0/110
+8 | insulin isoform X1 [Macaca nemestrina] | XP_011719619.2 | 100% | 96/110 (87.27%) | 1e-54 | 0/110
+9 | insulin [Pteropus alecto] | XP_006911039.1 | 100% | 95/110 (86.36%) | 2e-54 | 0/110
+10 | insulin preproprotein [Pan troglodytes] | NP_001008996.1 | 100% | 94/110 (85.45%) | 3e-54 | 0/110
+
+Interpretation:
+- Query coverage = proportion of query included in the alignment.
+- Percent identity = exact amino-acid matches within the alignment.
+- E-value = expected number of alignments of this score or better by chance under the search model; smaller values indicate stronger statistical significance.
+- Gaps can reflect insertions/deletions or alignment choices.
+
+Cautions:
+- The top hit is a gray whale record, not a dolphin record. BLAST reports similar database records; verify the query accession and sequence.
+- The fifth hit is a partial hypothetical protein, so interpret it cautiously.
+- Some displayed values are rounded.
